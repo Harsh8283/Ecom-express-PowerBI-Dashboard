@@ -7,7 +7,7 @@ A Power BI dashboard analyzing e-commerce sales metrics such as total revenue, A
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard Screenshot](https://github.com/AryanKumar9798/Ecom-express-PowerBI-Dashboard/blob/main/Screenshot%202025-10-08%20114535.png)
+![Dashboard Screenshot](https://github.com/Harsh8283/Ecom-express-PowerBI-Dashboard/edit/main/README.md)
 
 
 ---
@@ -59,10 +59,9 @@ The aim is to **help decision-makers identify revenue opportunities** and reduce
 ---
 
 ## 👨‍💻 Created By
-**Aryan Kumar**  
-📍 B.Tech Student, MIT ADT University  
+**Harsh Anand**  
+📍 B.Tech Student, PRIST University  
 💼 Data Enthusiast | Power BI | Analytics  
 
-🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/aryan-kumar-68186b24b/) 
 
 #PowerBI #DataAnalytics #Ecommerce #Dashboard #GitHubProjects #BusinessIntelligence
